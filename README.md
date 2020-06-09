@@ -11,11 +11,4 @@ Example 0:
 2. 在Git Bash中執行以下指令
 
 ```
-bash <(curl -s https://raw.githubusercontent.com/jrjang/ncyu-2020/ex0/scripts/ex0-test.sh) GITHUB_ACCOUNT GITHUB_PROJECT CHINESE_NAME
-```
-
-GITHUB_ACCOUNT: github帳號
-
-GITHUB_PROJECT: github repository名稱 
-
-CHINESE_NAME: 中文姓名
+bash <(curl -s https://raw.githubusercontent.com/jrjang/ncyu-2020/ex0/scripts/ex0-test.sh) github帳號 github_repository名稱 中文姓名
